@@ -4,7 +4,7 @@
 #### Работа с Shadow DOM в консоли браузера 
 
 
-1. Присваиваем переменной локатор элемента который содержит #shadow-root  
+1. Присваиваем переменной элемент (находимый по локатору) который содержит #shadow-root  
    
         shadowRootElement = $("[class*='Display__DesktopView'] g-accordion[name='the-company'] g-link");
 
